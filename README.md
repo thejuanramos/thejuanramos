@@ -1,4 +1,4 @@
-## ⚔️ Hail, I'm Juan
+## Welcome, I'm Juan
 
 Software Engineering student from Spain, currently conquering the world of **cybersecurity**.
 
@@ -8,4 +8,4 @@ Software Engineering student from Spain, currently conquering the world of **cyb
 - 🕊️ **Send envoys:** [LinkedIn](https://www.linkedin.com/in/juanramosquintas/)
 - 🍝 **Fun fact:** I believe in spaghetti supremacy
 
-> *"There is nothing impossible to him who will try."* — attributed to Alexander the Great
+> *"There is nothing impossible to him who will try."* — Alexander the Great
